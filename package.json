@@ -46,6 +46,6 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "simplebar": "5.0.7"
+        "simplebar": "^5.2.1"
     }
 }
